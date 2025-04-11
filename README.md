@@ -1,32 +1,106 @@
-<h1 align="center">Hi 👋, I'm Kuldipsinh</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Kuldipsinh Parmar</h1>
+<h3 align="center">Full Stack Developer | CodeIgniter Enthusiast | WordPress & Wix Expert | Figma to WP Converter | Tech Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldipsinhparmar&label=Profile%20views&color=0e75b6&style=flat" alt="kuldipsinhparmar" /> </p>
+---
 
+### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **React, Blockchain**
+- 💻 I'm passionate about building modern, scalable, and user-friendly applications  
+- 🌱 Currently learning advanced features of **CodeIgniter 4**, Docker, and React  
+- 🚀 Working on:
+  - Emailing system for 20K+ coaches with Gmail/Outlook/Yahoo integration ✉️  
+  - Business listing platform with multi-language support (English & Gujarati) 🏢  
+  - Freelancer project management system & portfolio builder 🧰  
+- 🧩 I specialize in:
+  - WordPress site development, plugin customization & theme building 🔧  
+  - Creating responsive **Wix** websites with custom features ⚙️  
+  - Converting **Figma designs to pixel-perfect WordPress websites** 🎨  
+- 🎯 Focused on delivering clean code, high performance, and pixel-perfect designs
 
-- 💬 Ask me about **Php, Jquery, Wordpress**
+---
 
-- 📫 How to reach me **kuldipparmar18@gmail.com**
+### 💼 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kuldipsinh-parmar-952942133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kuldipsinh-parmar-952942133" height="30" width="40" /></a>
-<a href="https://fb.com/kuldip.parmar.3154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kuldip.parmar.3154" height="30" width="40" /></a>
-<a href="https://instagram.com/kuldipsinh_bapu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kuldipsinh_bapu/" height="30" width="40" /></a>
+#### 👨‍💻 Languages & Frameworks  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E44D26?style=for-the-badge&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🛠️ Tools & Platforms  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🌐 WordPress & Wix
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![Redux Framework](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![ACF](https://img.shields.io/badge/ACF-009688?style=for-the-badge&logo=acf&logoColor=white)
+![Yoast SEO](https://img.shields.io/badge/Yoast%20SEO-7B0099?style=for-the-badge&logo=yoast&logoColor=white)
+![Contact Form 7](https://img.shields.io/badge/Contact%20Form%207-0069B4?style=for-the-badge)
+![WPForms](https://img.shields.io/badge/WPForms-FFA500?style=for-the-badge&logo=wpforms&logoColor=white)
+![WPML](https://img.shields.io/badge/WPML-0099CC?style=for-the-badge)
+![Wix](https://img.shields.io/badge/Wix-FAAE00?style=for-the-badge&logo=wix&logoColor=black)
+
+> 🔧 I develop custom themes, extend plugin functionality, convert Figma designs to WordPress, and optimize sites for speed, SEO, and security.
+
+---
+
+### 📂 WordPress Projects
+
+- 🧠 **Custom Business Directory Platform**  
+  Multi-language listing website (English & Gujarati), with filters, reviews, and admin control.
+
+- 🛒 **WooCommerce Store**  
+  Payment gateway integration, custom product layout, order tracking, and SEO optimization.
+
+- 🎨 **Theme & Plugin Development**  
+  Built custom themes using ACF and Redux, and extended plugins like CF7, WPForms.
+
+- 🔐 **Security & Speed Optimization**  
+  Performance improvements, database optimization, and plugins like Wordfence, WP Rocket.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KuldipsinhParmar&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuldipsinhParmar&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
+### 🌐 Connect with Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldipsinhparmar&show_icons=true&locale=en&layout=compact" alt="kuldipsinhparmar" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kuldipsinhparmar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:developerdeck.200@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://developerdeck.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+</p>
 
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kuldipsinh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kuldipsinh" /></a></p><br><br>
+### ⚡ Fun Facts
 
+- 🧩 I love solving real-world problems with code  
+- 🧠 Constantly exploring new tech and frameworks  
+- 🎮 Gaming and tech videos are my go-to break time activities
 
+---
 
-
+*Thanks for stopping by! Don't forget to ⭐ some repos if you like what you see!*
